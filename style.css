@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background-image: url(img/hero.svg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 0;
+    height: 750px;
+    margin-bottom: 50px;
+  }
+
+  .navbar{
+    margin-bottom: 100px;
+  }
+  
+  .btn-warning{
+    border-radius: 30px;
+  }
+
+  .about-h1{
+    color: #603809;
+    margin-top: 70px;
+    font-size: 60px;
+  }
+
+  .about-text{
+    font-size: 25px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    color: #707070;
+  }
+
+  .coffe-blast{
+    margin-top: -200px;
+  }
+
+.menu-title h1{
+    text-align: center;
+    color: #603809;
+    font-size: 50px;
+}
+.menu{
+    margin-bottom: 70px;
+}
+
+.menu-title>p{
+    text-align: center;
+    color: #707070;
+}
+
+.menu-b{
+    background-image: url(img/menu-background.png);
+    padding: 0;
+    
+}
+
+.menu-img{
+    width: 100%;
+}
+
+.menu-h4{
+    text-align: center;
+    color: #603809;
+}
+
+.menu-p{
+    text-align: center;
+    color: #603809;
+}
+.menu-h6{
+    text-align: center;
+    color: #603809;
+}
+
+.menu-button{
+    text-decoration: none;
+    color: #000;
+    background-color: #F9C06A;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 40px;
+    padding: 5px;
+}
+
+
+.coffee_blast-2{
+    float: right;
+}
+
+.menu-title-2 h1{
+    text-align: center;
+    color: #603809;
+    font-size: 50px;
+}
+
+.menu-title-2>p{
+    text-align: center;
+    color: #707070;
+}
+
+.menu-s{
+    background-image: url(img/menu-background-2.png);
+    padding: 10px;
+}
+
+.order{
+    background-image: url(img/order-background.png);
+    padding: 30px;
+}
+
+.order-h1{
+    font-size: 50px;
+    color: #fff;
+}
+
+.order-p{
+    font-size: 25px;
+    color: #fff;
+    margin-top: 40px;
+}
+
+footer{
+    background-image: url(img/footer-background.png);
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.about-footer{
+    list-style: none;
+    color: #fff;
+}
